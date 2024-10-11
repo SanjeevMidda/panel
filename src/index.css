@@ -7,7 +7,7 @@
 }
 
 .App {
-  display: flex;
+  display: flex-end;
   justify-content: center;
   align-items: center;
   height: 100dvh;
